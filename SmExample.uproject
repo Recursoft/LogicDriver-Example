@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -25,11 +25,11 @@
 		},
 		{
 			"Name": "FunctionalTestingEditor",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "RuntimeTests",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "AppleARKit",
