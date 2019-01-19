@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.19",
+	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,10 +19,10 @@
 			"Name": "OculusVR",
 			"Enabled": false
 		},
-    {
-      "Name":  "SMSystem",
-      "Enabled": true
-    },
+		{
+			"Name": "SMSystem",
+			"Enabled": true
+		},
 		{
 			"Name": "FunctionalTestingEditor",
 			"Enabled": true
