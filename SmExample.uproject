@@ -25,11 +25,19 @@
 		},
 		{
 			"Name": "FunctionalTestingEditor",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "RuntimeTests",
-			"Enabled": true
+			"Enabled": false
+		},
+		{
+			"Name": "AppleARKit",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleARKitFaceSupport",
+			"Enabled": false
 		}
 	]
 }
