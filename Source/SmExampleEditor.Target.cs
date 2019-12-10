@@ -9,5 +9,6 @@ public class SmExampleEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		ExtraModuleNames.Add("SmExample");
-	}
+        DefaultBuildSettings = BuildSettingsVersion.V2;
+    }
 }
