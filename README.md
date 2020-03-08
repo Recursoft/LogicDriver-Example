@@ -6,4 +6,5 @@ WIP Example Project for 2.0 features.
 2.0 Features Displayed:
 - Custom state class to print text and custom transition class with time delay
 - Exposing a text variable with a default value, editing the default value, and using a text variable
+- Dynamic instantiation of a state machine during run-time using custom classes and waiting for its completion.
 
