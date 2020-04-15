@@ -1,10 +1,28 @@
 # Logic Driver 2.0 Example Project
 
-WIP Example Project for 2.0 features.
-**Requires the Beta Version of Logic Driver 2.0.**
+**Requires Logic Driver 2.0.**
 
-2.0 Features Displayed:
+## Requirements
+- Download a zip from the [releases page](https://github.com/Recursoft/LogicDriver-Example/releases) or clone the repository using `git clone --recurse-submodules`
+- Open `LogicDriverExample.uproject`
+- Unreal should prompt to build the project
+    - Visual Studio is required for the project to build. It can be downloaded from https://visualstudio.microsoft.com/downloads/
+
+## Documentation
+- [Logic Driver User Guide and API Reference](https://logicdriver.recursoft.net/docs/)
+
+## Example Map
+- Basic state machine usage, contexts, and ticking
+- Event based trigger with manual binding
+- Event based trigger with auto binding
 - Custom state class to print text and custom transition class with time delay
 - Exposing a text variable with a default value, editing the default value, and using a text variable
-- Dynamic instantiation of a state machine during run-time using custom classes and waiting for its completion.
+- Dynamic instantiation of a state machine during run-time using custom classes and waiting for its completion
 
+## AI Example Map
+- AI Patrol Behavior
+
+## Dialogue Example Map
+- Sample Dialogue implementation using the [LogicDriver-Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue)
+    - This is a submodule of this project and is required for this example
+- The plugin can be used as an example on how to overload state and transition classes in C++

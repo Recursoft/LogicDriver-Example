@@ -1,0 +1,3 @@
+[submodule "Plugins/LogicDriver-Dialogue"]
+	path = Plugins/LogicDriver-Dialogue
+	url = git@github.com:Recursoft/LogicDriver-Dialogue.git
