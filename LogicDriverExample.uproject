@@ -34,6 +34,11 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "SMDialogue",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9d8db9962594400988f8ddd3fb83cd88"
 		}
 	]
 }
