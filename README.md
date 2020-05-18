@@ -1,8 +1,8 @@
 # Logic Driver 2.0 Example Project
 
-**Requires Logic Driver 2.0.**
+**Requires Logic Driver 2.0**
 
-## Requirements
+## Installation
 - Download a zip from the [releases page](https://github.com/Recursoft/LogicDriver-Example/releases) or clone the repository using `git clone --recurse-submodules`
 - Open `LogicDriverExample.uproject`
 - Unreal should prompt to build the project
@@ -25,4 +25,5 @@
 ## Dialogue Example Map
 - Sample Dialogue implementation using the [LogicDriver-Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue)
     - This is a submodule of this project and is required for this example
-- The plugin can be used as an example on how to overload state and transition classes in C++
+    - The plugin can be used as an example on how to overload state and transition classes in C++
+- A dialogue system can be implemented entirely using Blueprints. See [Dialogue System Concepts](https://logicdriver.recursoft.net/docs/pages/dialogue/) for more information
