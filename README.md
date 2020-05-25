@@ -2,6 +2,8 @@
 
 **Requires Logic Driver 2.0**
 
+Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.recursoft.net/liteexample).
+
 ## Installation
 - Download a zip from the [releases page](https://github.com/Recursoft/LogicDriver-Example/releases) or clone the repository using `git clone --recurse-submodules`
 - Open `LogicDriverExample.uproject`
