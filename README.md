@@ -26,3 +26,8 @@
 - Sample Dialogue implementation using the [LogicDriver-Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue)
     - This is a submodule of this project and is required for this example
 - The plugin can be used as an example on how to overload state and transition classes in C++
+
+## Quest Example Map
+- Sample implementation of a simple fetch quest system.
+- First room runs sequential quests.
+- Second room runs parallel quests by dynamically creating state machines with custom classes. (Not recommended for replication)
