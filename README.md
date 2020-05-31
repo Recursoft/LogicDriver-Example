@@ -29,12 +29,9 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
     - This is a submodule of this project and is required for this example
     - The plugin can be used as an example on how to overload state and transition classes in C++
 - A dialogue system can be implemented entirely using Blueprints. See [Dialogue System Concepts](https://logicdriver.recursoft.net/docs/pages/dialogue/) for more information
-<<<<<<< HEAD
-=======
 
 ## Quest Example Map
 - Sample implementation of a simple fetch quest system. Each quest node is a state machine class containing  quest objective state nodes.
 - Behavior rules are setup so `BP_QuestObjectiveNode` states can only be placed in state machines of type `BP_QuestStateMachine`.
 - First room runs sequential quests.
 - Second room runs parallel quests by dynamically creating state machines with custom classes. (Not recommended for replication)
->>>>>>> 4.24
