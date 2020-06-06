@@ -6,7 +6,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 
 ## Installation
 
-1. Open the [releases page](https://github.com/Recursoft/LogicDriver-Example/releases) (*or clone the repository using `git clone --recurse-submodules`*)
+1. Open the [releases page](https://github.com/Recursoft/LogicDriver-Example/releases) *or clone the repository using `git clone --recurse-submodules`*
 1. Download `LogicDriverExample.zip`
 
 ![Download Image](https://i.imgur.com/DeOYG4O.jpg)
