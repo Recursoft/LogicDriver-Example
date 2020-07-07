@@ -1,6 +1,6 @@
 # Logic Driver 2.0 Example Project
 
-**Requires Logic Driver 2.0**
+**Requires Logic Driver 2.3**
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.recursoft.net/liteexample).
 
@@ -50,4 +50,8 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 - Sample implementation of a simple fetch quest system. Each quest node is a state machine class containing  quest objective state nodes.
 - Behavior rules are setup so `BP_QuestObjectiveNode` states can only be placed in state machines of type `BP_QuestStateMachine`.
 - First room runs sequential quests.
-- Second room runs parallel quests by dynamically creating state machines with custom classes. (Not recommended for replication)
+- Second room runs parallel quests.
+
+## Skill Example Map
+
+- Demonstrates branching parallel states and leaving states active.
