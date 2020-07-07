@@ -1,6 +1,6 @@
 # Logic Driver 2.0 Example Project
 
-**Requires Logic Driver 2.0**
+**Requires Logic Driver 2.3**
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.recursoft.net/liteexample).
 
