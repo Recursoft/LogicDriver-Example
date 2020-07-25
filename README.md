@@ -2,6 +2,9 @@
 
 **Requires Logic Driver 2.3**
 
+## 4.25.2 PROJECT BUILD BUG WORKAROUND
+- There is a **bug introduced in UE 4.25.2** which requires you copy `LogicDriver` from your `Epic Games\UE_4.25\Engine\Plugins\Marketplace\` folder to your `LogicDriverExample\Plugins\` folder. The example project will not build unless this step is done. This issue impacts all C++ projects which use marketplace plugins: https://issues.unrealengine.com/issue/UE-95865
+
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.recursoft.net/liteexample).
 
 ## Installation
