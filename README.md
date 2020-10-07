@@ -35,6 +35,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 - Custom state class to print text and custom transition class with time delay
 - Exposing a text variable with a default value, editing the default value, and using a text variable
 - Dynamic instantiation of a state machine during run-time using custom classes and waiting for its completion
+- State stack example of multiple state classes combined into one state node.
 
 ## AI Example Map
 
@@ -57,3 +58,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 ## Skill Example Map
 
 - Demonstrates branching parallel states and leaving states active.
+
+## RPG Example Map [WIP]
+
+- Demonstration of dialogue system interacting with an advanced quest system. Basic inventory system present (not made with Logic Driver).
