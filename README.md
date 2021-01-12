@@ -1,8 +1,6 @@
-# Logic Driver 2.0 Example Project
+# Logic Driver Pro Example Project
 
 **Requires Logic Driver 2.4.1 or higher**
-
-- Make sure you are on UE 4.25.3 -- This hotfix corrects an issue building C++ projects with marketplace plugins.
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.recursoft.net/liteexample).
 
