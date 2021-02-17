@@ -15,6 +15,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 1. Unreal should prompt to build the project
     - Visual Studio is required for the project to build. It can be downloaded from https://visualstudio.microsoft.com/downloads/
         - Make sure [Game development with C++](https://devblogs.microsoft.com/cppblog/directx-game-development-with-c-in-visual-studio/) is checked during the install. Otherwise building the project may fail
+        - Make sure .NET Framework 4.6 is installed
         
 ## Installation & Walk-through Video
 
