@@ -15,7 +15,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 1. Unreal should prompt to build the project
     - Visual Studio is required for the project to build. It can be downloaded from https://visualstudio.microsoft.com/downloads/
         - Make sure [Game development with C++](https://devblogs.microsoft.com/cppblog/directx-game-development-with-c-in-visual-studio/) is checked during the install. Otherwise building the project may fail
-        - Make sure .NET Framework 4.6 is installed
+        - Make sure .NET Framework 4.6 SDK is installed
         
 ## Installation & Walk-through Video
 
@@ -30,6 +30,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 
 - Basic state machine usage, contexts, and ticking
 - Event based trigger with manual binding
+- Event based elevator lift with interp.
 - Event based trigger with auto binding
 - Custom state class to print text and custom transition class with time delay
 - Exposing a text variable with a default value, editing the default value, and using a text variable
