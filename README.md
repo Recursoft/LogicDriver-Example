@@ -1,6 +1,6 @@
 # Logic Driver Pro Example Project
 
-**Requires Logic Driver 2.4.1 or higher**
+**Requires Logic Driver 2.4.6 or higher**
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.recursoft.net/liteexample).
 
