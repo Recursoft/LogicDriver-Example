@@ -78,6 +78,8 @@ DerivedDataCache/*
 
 Package/
 
+.idea
+
 Plugins/**
 !.gitignore
 !Plugins/LogicDriver-Dialogue
