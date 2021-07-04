@@ -41,6 +41,10 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 
 - AI Patrol Behavior
 
+## Replication Example Map
+
+- Various replication settings. Play with ListenServer or Client.
+
 ## Dialogue Example Map
 
 - Sample Dialogue implementation using the [LogicDriver-Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue)
