@@ -4,14 +4,13 @@
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.com/liteexample).
 
-## Installation
+## Installation on 4.27+
+*For older versions see the readme of the branch for instructions*
 
 1. Uninstall Logic Driver Lite if installed.
 1. [Install Logic Driver Pro](https://logicdriver.com/docs/pages/installation/) from the Marketplace.
 1. Clone or download the project as a zip.
 1. Open `LogicDriverExample.uproject`.
-
-- Previous versions required to build a C++ project. This is no longer necessary. Use the 
         
 ## Installation & Walk-through Video
 
@@ -44,7 +43,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 ## Dialogue Example Map
 
 - Sample blueprint dialogue implementation using the [LogicDriver-Dialogue Blueprint Project](https://github.com/Recursoft/LogicDriver-DialogueExample).
-- For a C++ example, see the [C++ Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue). This was used on older versions of this example project and in the `4.27-cpp`.
+- For a C++ example, see the [C++ Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue). This was used on older versions of this example project and in the `4.27-cpp` branch.
 
 ## Quest Example Map
 
