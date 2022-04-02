@@ -1,6 +1,6 @@
 # Logic Driver Pro Example Project
 
-**Requires Logic Driver 2.5.0 or higher**
+**Requires Logic Driver 2.6.0 or higher**
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.com/liteexample).
 
@@ -8,21 +8,14 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 
 1. Uninstall Logic Driver Lite if installed.
 1. [Install Logic Driver Pro](https://logicdriver.com/docs/pages/installation/) from the Marketplace.
-1. Open the [releases page](https://github.com/Recursoft/LogicDriver-Example/releases) *or clone the repository using `git clone --recurse-submodules`*
-1. Download `LogicDriverExample.zip`.
+1. Clone or download the project as a zip.
+1. Open `LogicDriverExample.uproject`.
 
-![Download Image](https://i.imgur.com/DeOYG4O.jpg)
-
-5. Open `LogicDriverExample.uproject`.
-1. Unreal should prompt to build the project.
-    - Visual Studio is required for the project to build. It can be downloaded from https://visualstudio.microsoft.com/downloads/
-        - Make sure [Game development with C++](https://devblogs.microsoft.com/cppblog/directx-game-development-with-c-in-visual-studio/) is checked during the install otherwise building the project may fail.
-        - Make sure .NET Framework 4.6 SDK is installed.
+- Previous versions required to build a C++ project. This is no longer necessary. Use the 
         
 ## Installation & Walk-through Video
 
 [![ExampleProject Walkthrough](https://img.youtube.com/vi/fOvyPBi_LM8/0.jpg)](https://www.youtube.com/watch?v=fOvyPBi_LM8)
-
 
 ## Documentation
 
@@ -50,10 +43,8 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 
 ## Dialogue Example Map
 
-- Sample Dialogue implementation using the [LogicDriver-Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue).
-    - This is a submodule of this project and is required for this example.
-    - The plugin can be used as an example on how to overload state and transition classes in C++.
-- [A dialogue system can be implemented entirely using Blueprints](https://github.com/Recursoft/LogicDriver-DialogueExample). See [Dialogue System Concepts](https://logicdriver.com/docs/pages/dialogue/) for more information.
+- Sample blueprint dialogue implementation using the [LogicDriver-Dialogue Blueprint Project](https://github.com/Recursoft/LogicDriver-DialogueExample).
+- For a C++ example, see the [C++ Dialogue Plugin](https://github.com/Recursoft/LogicDriver-Dialogue). This was used on older versions of this example project and in the `4.27-cpp`.
 
 ## Quest Example Map
 
