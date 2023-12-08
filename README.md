@@ -1,6 +1,13 @@
 # Logic Driver Pro Example Project
 
-**Requires Logic Driver 2.7.0 or higher**
+**Examples can now be installed directly from the plugin! These will replace the example project going forward.
+See [Content Samples](https://logicdriver.com/docs/guides/contentsamples/) for instructions.**
+
+---
+
+**Requires Logic Driver 2.8.0 or higher**
+
+*There may be plugin or engine deprecations present. Install the new [Content Samples](https://logicdriver.com/docs/guides/contentsamples/) for updated content.*
 
 Looking for Logic Driver LITE's Blueprint Only example project? Download from [here](https://logicdriver.com/liteexample).
 
