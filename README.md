@@ -15,7 +15,7 @@ Looking for Logic Driver LITE's Blueprint Only example project? Download from [h
 *For older versions see the readme of the branch for instructions*
 
 1. Uninstall Logic Driver Lite if installed.
-1. [Install Logic Driver Pro](https://logicdriver.com/docs/pages/installation/) from the Marketplace.
+1. [Install Logic Driver Pro](https://logicdriver.com/docs/guides/installation/) from the Marketplace.
 1. Clone or download the project as a zip.
 1. Open `LogicDriverExample.uproject`.
         
